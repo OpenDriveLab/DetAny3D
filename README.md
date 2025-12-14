@@ -3,7 +3,7 @@
 
 # DetAny3D
 
-This is the official repository for the **[Detect Anything 3D in the Wild](https://arxiv.org/abs/2504.07958)**, a promptable 3D detection foundation model capable of detecting any novel object under arbitrary camera configurations using only monocular inputs
+This is the official repository for the **[Detect Anything 3D in the Wild](https://arxiv.org/abs/2504.07958)**, a promptable 3D detection foundation model capable of detecting any novel object under arbitrary camera configurations using only monocular inputs.
 
 
 <!-- ## 🖼️ Demo Results
